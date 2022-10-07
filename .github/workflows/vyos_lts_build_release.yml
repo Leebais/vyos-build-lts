@@ -38,7 +38,7 @@ jobs:
         
         ./configure \
           --architecture amd64 \
-          --build-by naa0yama@aoya6i.com \
+          --build-by lavxscffshzp@outlook.com \
           --build-type release \
           --version ${{ env.RELEASE_VERSION }}
 
